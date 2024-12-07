@@ -1,0 +1,16 @@
+{
+	"publisherId": "snapsecgmbh1733575353555",
+	"offerId": "blacklens-sentinel-connector",
+	"firstPublishDate": "2023-07-28",
+	"providers": [ "blacklens.io" ],
+	"categories": {
+        "domains" : ["Security - Threat Protection","Security - Automation (SOAR)"],
+		"verticals": []
+	},
+	"support": {
+		"tier": "Partner",
+		"name": "snapSEC GmbH",
+		"email": "support@blacklens.io",
+		"link": "https://www.blacklens.io/contact/"
+	}
+}
